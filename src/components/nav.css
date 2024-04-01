@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;1,500&family=Sevillana&family=Space+Grotesk:wght@300&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-link {
+    font-family: 'Cormorant Garamond', serif;
+    color: #fff;
+    font-size: 1.3rem;
+
+}
+
+.nav-link:hover {
+    color: burlywood;
+}
